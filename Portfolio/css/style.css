@@ -28,16 +28,14 @@ ul li {
 .container {
 	position: relative;
 }
-.article-center{
+
+.article-center {
 	position: absolute;
 	top: 23%;
 	text-align: center;
 	width: 100%;
 	font-size: 50px;
 }
-/* .paragraph-welcome {
-	font-family: 'The Nautigal', cursive;
-} */
 
 /* section */  
 #about, #skills, #resources, #contact {
@@ -47,6 +45,11 @@ ul li {
 /* about info */
 .about_info {
 	font-size: 3rem;
+}
+
+/* image nav-logo */
+#nav-logo {
+	height: 50px;
 }
 
 /* footer */
